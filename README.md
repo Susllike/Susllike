@@ -4,7 +4,7 @@
 - I’m currently learning Python, but I'm also interested in learning webdev
 
 - Here are a few places where you can find/contact me:
-- Instagram: @suslike.16
+- Instagram: @stepan._.nazarov
 - Telegram: @Suslike
 - VK: vk.com/knight_of_the_square_table
 
